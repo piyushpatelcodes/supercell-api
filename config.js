@@ -1,7 +1,7 @@
 // Select which of the Supercell game API you want to use. Every game disabled by default...
 exports.games = {
 	clash: false,
-	royale: false,
+	royale: true,
 	brawl: false
 };
 
@@ -19,8 +19,8 @@ exports.clash = {
 
 // Your mail and password at https://developer.clashroyale.com
 exports.royale = {
-	mail: 'your-mail@gmail.com',
-	password: 'secret-password-here'
+	mail: 'patelrocks804@gmail.com',
+	password: 'Incorrec@1'
 };
 
 // Your mail and password at https://developer.brawlstars.com
